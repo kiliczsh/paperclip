@@ -36,7 +36,8 @@
 				"noExplicitAny": "warn",
 				"noArrayIndexKey": "warn",
 				"noControlCharactersInRegex": "warn",
-				"noAssignInExpressions": "warn"
+				"noAssignInExpressions": "warn",
+				"noImplicitAnyLet": "warn"
 			},
 			"security": {
 				"recommended": true

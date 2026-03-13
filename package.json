@@ -44,14 +44,7 @@
     "vitest": "^3.0.5"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
-  "packageManager": "pnpm@9.15.4",
-  "workspaces": [
-    "packages/*",
-    "packages/adapters/*",
-    "server",
-    "ui",
-    "cli"
-  ]
+  "packageManager": "pnpm@9.15.4"
 }
